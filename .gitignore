@@ -1,0 +1,12 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+flaskapp/docker-compose.yml
